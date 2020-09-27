@@ -10,3 +10,4 @@ In the text file the word itself, and its phonemes, are separated by a ‘#’).
 This assignment will use the MutliValue Map written in above assignment to create two maps. An MVM map1 stores the word (as the key) and its final n phonemes as a single string (the value). 
 Now map2 stores the word (value), keyed by its final n phonemes as a single string. 
 Looking up the phonemes associated with a word can be done using the word as a key 1 (via map1), and looking up a word given its phonemes can be achieved using map2.
+The number of phonemes specified for the specific rhyming is given via the command line
