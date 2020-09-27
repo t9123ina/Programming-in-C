@@ -7,4 +7,4 @@ The final state will be like :
 ![](https://github.com/t9123ina/Programming-in-C/blob/master/Searching%20Boads/final_solution.png) 
 
 
-According to the assignment, the solution will need to store a list of boards by using a static data structure (a large 1D array) and a dynamic method (linked-lists) to achieve the goal.
+According to the assignment, the solution will need to store a list of boards by using a static data structure (a large 1D array) and a dynamic method (linked-lists) respectively to achieve the goal.
